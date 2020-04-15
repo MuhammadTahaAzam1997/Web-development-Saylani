@@ -1,0 +1,39 @@
+
+.form{
+    background-color: blueviolet;
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    text-align: center;
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form span{
+    color: cornsilk;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form label{
+color: cornsilk;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;    
+}
+table th{
+    color: cornsilk;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+table td{
+    color: cornsilk;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.h1
+{
+    color:green;
+}
